@@ -31,15 +31,12 @@ Do they have one? How well-defined is it? Do they have a "buddy system" or other
 
 **How do you determine if someone is a poor fit for the company?** Same as above, they may tell you more than they mean to about what they value (and what they don't).
 
-**If an employee does something harmful that isn't a fireable offense, how do you handle that? What steps do you take to create a culture of accountability?** They absolutely should have a plan for this. If they don't, any number of toxic-but-not-fireable behaviors are not being addressed.
 
 **Is there any sort of institutionalized way of dealing with plateauing or preventing burnout?** You should hear something about rotation of duties or location, sabbaticals, etc. In other words, a real plan for avoiding burnout, not empty platitudes.
 
 **How does internal communication work? How does the company communicate with itself, and is that effective** This can be a *really* telling question. Are company communications scattered? Leaked out? Top down? How does it work? Does it work? 
 
 **Is it easy to move to other divisions or offices?** Warning: the interviewer could infer that you are a difficult teammate and like to jump around.
-
-**Are there catered suppers?** This sounds good. It's not. In any properly functioning organization, you should be home for supper.
 
 **How many hours a week does senior management work?** Do they put in 80-hour weeks? If so, run away.
 
@@ -57,13 +54,10 @@ Do they have one? How well-defined is it? Do they have a "buddy system" or other
 
 **Does this position require travel? How often?** 
 
-**Is it possible to take sabbaticals or unpaid vacation?**
-
 **How many hours do people work in an average week?** Because seriously, if the job can't be done in 40 hours, something is probably wrong.
 
 **What is the rhythm to the work? Is there a time that's “all hands on deck” and everyone pulls all-nighters, or is it pretty consistent throughout the year?**
 
-**What is the policy on alternate work schedules?** Is variablity okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
 
 **What time do people normally leave work? What time do they normally start?**
 
@@ -73,45 +67,16 @@ Do they have one? How well-defined is it? Do they have a "buddy system" or other
 
 **What is your turnover rate?** How many people were hired last year and how many left? Over the past 2-3 years? What is the average time people stay? What are you doing to improve retention?
 
-**Are the company’s managers inclined to call employees at home with questions or comments?** If so, that's bad. Doubly so if they'll call at night or weekends? 
-
 **How many layers of company managers or executives does one have to go through to get approval for a new idea?**
-
-**How are disagreements solved? What happens when personalities clash?** You're looking for a real, equitable and fair plan here, not a handwave-y answer.
-
-**Given everything you like about the company culture, what failure modes do you think that it creates? Are those potential failure modes or have you seen them happen? How do you try to guard against them?** Cultural choices can have downsides, too. If the person who's answering you has been in the company for a while and can't give you a good answer, either they're unwilling to give you bad news about the company, or they're not very thoughtful about the culture and its failure modes.[who](url)
-
 
 
 ## Diversity, equity, inclusion and ethics
 
-**Tell me about a situation where someone raised a concern about DE&I or ethics?** How was it handled? If not, have there really not been any? Is management listening?
-
 **Tell me about the organization demographics, particularly leadership.** Bad orgs don’t know or get defensive; good orgs are open and transparent; great orgs share what they’re doing to improve.
-
-**Tell me about your effort to attract a diverse pool of candidates.**
-
-**Tell me about your efforts to _retain_ a diverse group of employees.** This one is particular useful when paired with the previous.
-
-**Tell me about a time when a challenge or suggestion from a person of color was acted on in their favor?** How long ago was that?
-
-**What happened the last time an employee who wasn't a white cisgender male critiqued something your organization had done?**
 
 **What metrics are you currently using to track DE&I?**
 
-**What specifically are you doing to drive greater diversity in management?**
-
-**What benefits do you expect from increasing diversity among leadership?**
-
-**What benefits do you expect from increasing diversity across the org?** The workplace may be challenging, but it should never be threatening. A manager who intentionally fosters a sense of acceptance and respect can be the reason you love your job.
-
 **How transparent is your salary and compensation data?** Outside of government the answer will almost always be "not at all" but good orgs will at least have a sense that's problematic and talk about how they deal with it.
-
-**Am I The Only One [in the demographic or under-represented group I identify as a member of]? If so, how do you plan to do to ensure that I am welcome, included and equal?** Follow-up: where do you anticipate challenges? Incorrect answers include blinking in confusion, saying "everything's fine and we don't see why we'd have to do anything in particular", and "you're not the only one; we have a [person] in a $other_role!"
-
-**Do you have a standard insurance package that covers trans health care?** Even if you yourself might not use the insurance package, this still gives you good insight into their commitment to inclusion.
-
-**Do you offer paternity leave, or just maternity leave?** If they only offer maternity leave it can say a lot about the roles they expect women to play.
 
 **Most/all of my interviewers were men. Can I speak to someone else on the team to hear more about their own experience?** Does the team lacks diverse perspectives?
 
@@ -148,11 +113,7 @@ Follow-ups:
 
 **How do you make money?** Again, mostly for startups, but can they explain the business model in a way that makes sense?
 
-**Are company financials transparent throughout the company?** What about salaries? (see the DE&I section). This is another question that you probably don't want to ask a publicly traded company, because the financials should be public record. If you're curious, you should probably have already checked.
-
 **How much are you planning to hire in the next year?** If it's a large number, ask the follow-up: How do you plan to hire and onboard that many people?
-
-**How does the company usually solve problems: through committee, group meetings, individual meetings or management only?** Helps get a sense of where they're at on the consensus-driven to top-down continuum.
 
 **How are important decisions made and communicated?**  Are they dictated top down? Are ideas from anyone welcomed? If so, in what scope/context?
 
@@ -169,8 +130,6 @@ Follow-ups:
 **What’s your (or my future boss’) leadership style?**
 
 **How do you know if people are comfortable giving you candid feedback? How do you fix it if they’re not?** Does your future manager value feedback and want to know what's not working? Hopefully, this is something they've thought about. 
-
-**How do you nurture psychological safety in your team?**
 
 
 ## Doing the work
@@ -193,19 +152,11 @@ Follow-ups:
 
 ## Career development
 
-**Are employees encouraged to go speak at conferences?** Do you cover travel to conferences? 
-
 **Does your company support continuing education?** If so, how (and how much?)
-
-**In what other ways do you support career development?**
 
 **Does the company routinely provide training, either internal or external, for new technologies such as software updates or best practices?**
 
 **Does the company allow employees to pursue their own training path** To what extent?
-
-**When was the last time you promoted someone on your team? How did it happen?** How are they likely to handle it when you want a promotion?
-
-**Tell me about a time you supported a direct report leaving your team or company for the benefit of their own growth?** A supportive manager cares about your goals, not gluing you to your seat. The very best managers realize when it's time to move you up, even if that means moving you out.
 
 
 ## The Interview process
@@ -226,9 +177,6 @@ Follow-ups:
 
 **Do you stack-rank employees?** If yes, run away. Only trash companies stack rank employees. When they said "we only hire the best" they neglected to say "and then we'll treat at least half of them like dirt, by design."
 
-**Can you tell me about a time when you've had to let someone go?**
-
-
 
 ## Compensation
 **If this is an exempt (salaried) position how much overtime do you assume I would put in without compensation?** 
@@ -239,37 +187,18 @@ Follow-ups:
 
 **Is there a company/employee bonus structure and if so, how does it work?**
 
-**How often do you offer above asking?** Can you speak with someone who got such an offer?
-
 
 ## More 
-
-What information is shared with the employees (revenues, costs, operating metrics)? Is this an “open book” shop, or do you play it closer to the vest? How is information shared? How do I get access to the information I need to be successful in this job?
-
-Who are the heroes at your company? What characteristics do the people who are most celebrated have in common with each other? Conversely, what are the characteristics that are common to the promising people you hired, but who then flamed out and failed or left? 
-
-How many people are directly or indirectly involved in creative decisions?  
 
 What kinds of tasks are routinely demanded of by management beyond the original job description? 
 
 Does the company require a prospective employee to sign a non-complete contract? If so, in a few words please explain how restrictive it is. Is this non-compete contract negotiable?
 
 
-## Things to look for in real life
-
-* How is the office space physically organized?
-
-* Is it clean? Well kept?
-
-* Are employees expected to pay for basics (like coffee)?
-
-
 
 ## For engineering orgs
 
 **What version control system do you use? How do you track issues?** If the answer to either is "we don't", that's very bad.
-
-**What's the process for code review?** Bonus points if they can point to documented guidelines for behavior in code reviews.
 
 **How do you make sure that all code is understood by more than one person?**
 
@@ -289,7 +218,6 @@ Does the company require a prospective employee to sign a non-complete contract?
 
 **What's your approach to technical debt?**
 
-**Do you contribute to open source projects?** Which projects? Which teams work on open source? Do you work mostly in the community or do you have a private fork?
 
 ---------------
 
